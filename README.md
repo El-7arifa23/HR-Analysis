@@ -9,10 +9,10 @@ An end-to-end data analysis project that explores the root causes of employee at
 ## 👥 Team Members
 
 - Ahmed Wael  
-- Ali Nader  
+- Hazem Amr  
 - Sameh Shahin  
 - Omar Abdelhamid  
-- Hazem Amr  
+- Ali Nader 
 - Mahmoud Alaa  
 
 ---
