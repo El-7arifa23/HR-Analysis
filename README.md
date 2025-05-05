@@ -1,8 +1,10 @@
-<h1 style="Font-size: 40px">🚀 NezamTrack</h1>
+# 🚀 NezamTrack
+
 An end-to-end data analysis project investigating the root causes of employee attrition using advanced analytical tools.
 This project was developed for DEPI Round 2 (2024–2025), simulating real-world HR data to deliver actionable insights.
 
-👥 Team Members
+<hr>
+# 👥 Team Members
 ✨ Ahmed Wael
 ✨ Hazem Amr
 ✨ Sameh Shahin
@@ -10,7 +12,7 @@ This project was developed for DEPI Round 2 (2024–2025), simulating real-world
 ✨ Ali Nader
 ✨ Mahmoud Alaa
 
-🏗 Project Structure
+# 🏗 Project Structure
 plaintext
 Copy
 Edit
