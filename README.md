@@ -1,4 +1,4 @@
-# 🚀 **NezamTrack**
+# 🚀 **NezamTrack Mega Project**
 
 An end-to-end **data analysis** Mega project Showcase Our works in Providing HR Solutions For Companies.  
 This project was developed for **DEPI Round 2 (2024–2025)**, simulating real-world HR data to deliver **actionable insights**.
@@ -87,7 +87,7 @@ pip install pandas matplotlib seaborn
 
 ---
 
-## 🌟 **Why We Were Chosen**
+## 🌟 **Why We Were Chosen For The Mega Project**
 
 ✨ **Excellence in Delivery**  
 Our team consistently produced **high-quality, data-driven outputs** across multiple platforms, setting a benchmark in the Data Analysis track.
