@@ -95,10 +95,5 @@ Our team consistently produced **high-quality, data-driven outputs** across mult
 ✨ **Cross-Track Collaboration**  
 We delivered insights that complemented the work of **Digital Marketing** and **Design** teams, demonstrating adaptability and teamwork.
 
----
 
-## 💬 **Let’s Connect!**
-
-Have questions or want to collaborate?  
-Reach out via [GitHub Issues](https://github.com/YourRepo/HR-Attrition-Analysis/issues) or connect with team members directly!
 
