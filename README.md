@@ -5,7 +5,7 @@ This project was developed for **DEPI Round 2 (2024–2025)**, simulating real-w
 
 ---
 
-## 👥 **Team Members**
+## 👥 **Data Analysis Team Members**
 
 ✨ Ahmed Wael  
 ✨ Hazem Amr  
