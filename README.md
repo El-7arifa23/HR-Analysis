@@ -1,6 +1,6 @@
 #  HR Attrition Analysis – NezamTrack
 
-An end-to-end data analysis project that explores the root causes of employee attrition using a variety of analytical tools. This project was created as part of **DEPI Round 2 (2024–2025)** for **Nexasoft** and uses real-world simulation data to deliver actionable insights.
+An end-to-end data analysis project that explores the root causes of employee attrition using a variety of analytical tools. This project was created as part of **DEPI Round 2 (2024–2025)** for **NezamTrack** and uses real-world simulation data to deliver actionable insights.
 
 ![Screenshot 2025-04-05 134012](https://github.com/user-attachments/assets/6a12eea5-a736-4320-9987-f39eab9698a6)
 
