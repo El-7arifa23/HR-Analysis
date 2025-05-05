@@ -1,4 +1,4 @@
-# 🚀 NezamTrack
+<h1 style="Font-size: 40px">🚀 NezamTrack</h1>
 An end-to-end data analysis project investigating the root causes of employee attrition using advanced analytical tools.
 This project was developed for DEPI Round 2 (2024–2025), simulating real-world HR data to deliver actionable insights.
 
